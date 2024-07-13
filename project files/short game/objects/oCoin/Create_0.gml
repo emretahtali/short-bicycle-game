@@ -1,0 +1,2 @@
+startY = y;
+lock = false;
